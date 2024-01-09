@@ -1,4 +1,0 @@
-aws sns subscribe \
-    --topic-arn = "arn:aws:sns:us-east-1:934545095678:billing-alarm" \
-    --protocol = email \
-    --notification-endpoint = abdurraheem.sattar@gmail.com
